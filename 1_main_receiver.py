@@ -412,14 +412,14 @@ if __name__ == "__main__":
         {
             "name": "TRAIN",
             "payload_dir": PAYLOAD_FOLDER,
-            "input_dir": "/content/drive/MyDrive/ColabNotebooks/output/BALL/batch_results_eval/",
-            "output_summary_dir": "/content/drive/MyDrive/ColabNotebooks/output/BALL",
+            "input_dir": "/content/drive/MyDrive/ColabNotebooks/output/TRAIN/batch_results_eval/",
+            "output_summary_dir": "/content/drive/MyDrive/ColabNotebooks/output/TRAIN",
         },
         {
             "name": "TRUCK",
             "payload_dir": PAYLOAD_FOLDER,
-            "input_dir": "/content/drive/MyDrive/ColabNotebooks/output/COFFEE/batch_results_eval",
-            "output_summary_dir": "/content/drive/MyDrive/ColabNotebooks/output/COFFEE/",
+            "input_dir": "/content/drive/MyDrive/ColabNotebooks/output/TRUCK/batch_results_eval",
+            "output_summary_dir": "/content/drive/MyDrive/ColabNotebooks/output/TRUCK/",
         },
         {
             "name": "CAR",
