@@ -207,13 +207,13 @@ if __name__ == "__main__":
     DATASET_CONFIGS = [
         {
             "name": "TRAIN",
-            "path_raw_orig": "/content/drive/MyDrive/ColabNotebooks/BALL/iteration_30000/point_cloud.ply",
-            "path_new_baseline": "/content/drive/MyDrive/ColabNotebooks/output/BALL/quantized_baseline.ply",
+            "path_raw_orig": "/content/drive/MyDrive/ColabNotebooks/TRAIN/iteration_30000/point_cloud.ply",
+            "path_new_baseline": "/content/drive/MyDrive/ColabNotebooks/output/TRAIN/quantized_baseline.ply",
         },
         {
             "name": "TRUCK",
-            "path_raw_orig": "/content/drive/MyDrive/ColabNotebooks/COFFEE/iteration_30000/point_cloud.ply",
-            "path_new_baseline": "/content/drive/MyDrive/ColabNotebooks/output/COFFEE/quantized_baseline.ply",
+            "path_raw_orig": "/content/drive/MyDrive/ColabNotebooks/TRUCK/iteration_30000/point_cloud.ply",
+            "path_new_baseline": "/content/drive/MyDrive/ColabNotebooks/output/TRUCK/quantized_baseline.ply",
         },
         {
             "name": "CAR",
