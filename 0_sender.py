@@ -408,15 +408,15 @@ if __name__ == "__main__":
     DATASET_CONFIGS = [
         {
             "name": "TRAIN",
-            "input_ply_path": "/content/drive/MyDrive/ColabNotebooks/BALL/iteration_30000/point_cloud.ply",
+            "input_ply_path": "/content/drive/MyDrive/ColabNotebooks/TRAIN/iteration_30000/point_cloud.ply",
             "payload_folder": PAYLOAD_FOLDER,
-            "output_dir": "/content/drive/MyDrive/ColabNotebooks/output/BALL/batch_results_eval/",
+            "output_dir": "/content/drive/MyDrive/ColabNotebooks/output/TRAIN/batch_results_eval/",
         },
         {
             "name": "TRUCK",
-            "input_ply_path": "/content/drive/MyDrive/ColabNotebooks/COFFEE/iteration_30000/point_cloud.ply",
+            "input_ply_path": "/content/drive/MyDrive/ColabNotebooks/TRUCK/iteration_30000/point_cloud.ply",
             "payload_folder": PAYLOAD_FOLDER,
-            "output_dir": "/content/drive/MyDrive/ColabNotebooks/output/COFFEE/batch_results_eval/",
+            "output_dir": "/content/drive/MyDrive/ColabNotebooks/output/TRUCK/batch_results_eval/",
         },
         {
             "name": "CAR",
