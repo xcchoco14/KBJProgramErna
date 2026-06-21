@@ -461,16 +461,16 @@ if __name__ == "__main__":
         {
             "name": "TRUCK",
             "payload_dir": PAYLOAD_FOLDER,
-            "input_dir": "/content/drive/MyDrive/ColabNotebooks/output/COFFEE/batch_results_eval",
-            "output_summary_dir": "/content/drive/MyDrive/ColabNotebooks/output/COFFEE/",
-            "output_recovered_dir": "/content/drive/MyDrive/ColabNotebooks/output/COFFEE/batch_results_recovered/",
+            "input_dir": "/content/drive/MyDrive/ColabNotebooks/output/TRAIN/batch_results_eval",
+            "output_summary_dir": "/content/drive/MyDrive/ColabNotebooks/output/TRAIN/",
+            "output_recovered_dir": "/content/drive/MyDrive/ColabNotebooks/output/TRAIN/batch_results_recovered/",
         },
         {
             "name": "CAR",
             "payload_dir": PAYLOAD_FOLDER,
-            "input_dir": "/content/drive/MyDrive/ColabNotebooks/output/CAR/batch_results_eval",
-            "output_summary_dir": "/content/drive/MyDrive/ColabNotebooks/output/CAR/",
-            "output_recovered_dir": "/content/drive/MyDrive/ColabNotebooks/output/CAR/batch_results_recovered/",
+            "input_dir": "/content/drive/MyDrive/ColabNotebooks/output/TRUCK/batch_results_eval",
+            "output_summary_dir": "/content/drive/MyDrive/ColabNotebooks/output/TRUCK/",
+            "output_recovered_dir": "/content/drive/MyDrive/ColabNotebooks/output/TRUCK/batch_results_recovered/",
         },
         {
             "name": "TOASTER",
