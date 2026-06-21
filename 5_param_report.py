@@ -367,15 +367,15 @@ if __name__ == "__main__":
     DATASET_CONFIGS = [
         {
             "name": "TRAIN",
-            "path_original": "/content/drive/MyDrive/ColabNotebooks/output/BALL/quantized_baseline.ply",
-            "folder_recovered": "/content/drive/MyDrive/ColabNotebooks/output/BALL/batch_results_recovered/",
-            "path_csv_output": "/content/drive/MyDrive/ColabNotebooks/output/BALL/analisis_evaluasi_pemulihan.csv",
+            "path_original": "/content/drive/MyDrive/ColabNotebooks/output/TRAIN/quantized_baseline.ply",
+            "folder_recovered": "/content/drive/MyDrive/ColabNotebooks/output/TRAIN/batch_results_recovered/",
+            "path_csv_output": "/content/drive/MyDrive/ColabNotebooks/output/TRAIN/analisis_evaluasi_pemulihan.csv",
         },
         {
             "name": "TRUCK",
-            "path_original": "/content/drive/MyDrive/ColabNotebooks/output/COFFEE/quantized_baseline.ply",
-            "folder_recovered": "/content/drive/MyDrive/ColabNotebooks/output/COFFEE/batch_results_recovered/",
-            "path_csv_output": "/content/drive/MyDrive/ColabNotebooks/output/COFFEE/analisis_evaluasi_pemulihan.csv",
+            "path_original": "/content/drive/MyDrive/ColabNotebooks/output/TRUCK/quantized_baseline.ply",
+            "folder_recovered": "/content/drive/MyDrive/ColabNotebooks/output/TRUCK/batch_results_recovered/",
+            "path_csv_output": "/content/drive/MyDrive/ColabNotebooks/output/TRUCK/analisis_evaluasi_pemulihan.csv",
         },
         {
             "name": "CAR",
