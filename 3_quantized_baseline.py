@@ -2,9 +2,6 @@
 Reversible Data Hiding (RDH) via Prediction Error Expansion (PEE)
 for 3D Gaussian Splatting Point Clouds — QUANTIZED BASELINE GENERATOR.
 
-Object-Oriented refactor (English) of the original procedural script.
-Mirrors the architecture of the SENDER, EXTRACTION, and RECOVERY modules.
-
 Purpose
 -------
 Produces a "quantized baseline" .ply for each dataset: the *original*
